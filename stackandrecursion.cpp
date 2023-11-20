@@ -1,4 +1,18 @@
-﻿//Solving the Hanoi's Towers Problem recursively with stack
+/**
+ * UFRJ   - Universidade Federal do Rio de Janeiro
+ * DMA/IM - Departamento de Matemática Aplicada do Instituto de Matemática
+ *
+ *          (MAE 016) Top. Eng. Dados B: Estruturas de Dados e seus Algoritmos
+ *
+ *          Tarefa de Programação 002 – Classe Pilha
+ *
+ *          Prof. Milton R Ramirez (milton@matematica.ufrj.br)
+ *          Data da criação    : 25 de setembro de 2023
+ *          Data da alteração: 25 de setembro de 2023
+ *
+ **/
+
+//Solving the Hanoi's Towers Problem recursively with stack
 
 #include <iostream>
 #include <vector>
