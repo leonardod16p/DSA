@@ -103,7 +103,7 @@ public:
             cout << "m:  " << m << "\t" << "n:  " << n << "\t" << endl;
             cout << "Second Matrix" << endl;
             cout << "m:  " << obj.m << "\t" << "n:  " << obj.n << "\t" << endl;
-
+            throw "You cannot perform this operation!" <<;
         }
     }
 
